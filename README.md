@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @MridulPathania
+- 👀 I’m interested in New Technologies
+- 🌱 I’m currently learning Linux Operating System
+- 📫 How to reach me --- You can contact me via Gmail Id (mridulpathania05@gmail.com)
